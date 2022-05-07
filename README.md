@@ -1,2 +1,2 @@
 # html
-this is a repo for the html crash course by programming with mosh done by Marika Capraro
+this is a repo for the html crash course by Programming with Mosh. 
